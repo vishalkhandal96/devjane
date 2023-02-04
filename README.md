@@ -1,3 +1,3 @@
 "# devjane" 
 
-get the layout to click : [ReadMe]:adobe.ly/2GAgF93
+get the layout to click : adobe.ly/2GAgF93
